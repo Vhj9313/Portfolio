@@ -20,16 +20,17 @@ export default function Projects() {
       title: 'FinDash - Real-time Finance Tracker',
       description:
         'A sleek financial dashboard built with React, Tailwind CSS, and Upstox/Alpha Vantage APIs for tracking Indian indices and stock prices.',
-      tech: ['Svelte', 'Tailwind', 'Chart.js', 'Responsive UI'],
+      tech: ['React', 'Tailwind', 'Upstox API', 'Responsive UI'],
       link: 'https://github.com/Vhj9313/findash',
       live: 'https://finance-coral-ten.vercel.app/',
     },
     {
       title: 'Portfolio Website',
       description:
-        'My personal portfolio showcasing my projects, tech stack, and contact details. Built with React and Tailwind.',
+        'My personal portfolio showcasing my work, tech stack, and contact. Built with React and Tailwind.',
       tech: ['React', 'Tailwind', 'React Router'],
       link: 'https://github.com/Vhj9313/portfolio',
+      live: 'https://portfolio-five-gray-43.vercel.app',
     },
   ];
 
