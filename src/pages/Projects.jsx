@@ -32,6 +32,14 @@ export default function Projects() {
       link: 'https://github.com/Vhj9313/portfolio',
       live: 'https://portfolio-five-gray-43.vercel.app',
     },
+    {
+      title: 'Game Hub - Mini Games Collection',
+      description:
+        'A collection of fun mini-games like Memory Match, Minesweeper, Whack-a-Mole, Rock Paper Scissors, and Connect Four. Built with Svelte and Tailwind CSS.',
+      tech: ['Svelte', 'Tailwind', 'Responsive UI', 'Game Logic'],
+      link: 'https://github.com/Vhj9313/Games',
+      live: 'https://games-8sajj9to1-vaibhavs-projects-69306ad4.vercel.app/', 
+    },
   ];
 
   return (
