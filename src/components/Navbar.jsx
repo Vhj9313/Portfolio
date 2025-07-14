@@ -16,7 +16,7 @@ export default function Navbar() {
     <nav className="bg-gray-950 text-white shadow-md sticky top-0 z-50 w-full">
       <div className="w-full max-w-[1800px] mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         {/* Logo */}
-        <div className="text-2xl font-bold text-blue-400">Vaibhav</div>
+        <Link to="/" className="text-2xl font-bold text-blue-400">Vaibhav</Link>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex space-x-3">
